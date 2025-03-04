@@ -27,3 +27,33 @@
 .deaddove-blur {
     filter: blur(8px);
 }
+.widget.widget_custom_user_widget{
+    display: none;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+}
+.deaddove-block-description {
+    filter: blur(5px);  
+    user-select: none !important;  
+    -webkit-user-select: none;  
+    -moz-user-select: none;  
+    -ms-user-select: none;  
+    /* pointer-events: none;   */
+}
+
+.deaddove-blog-warning{
+    filter: blur(5px);  
+    user-select: none !important; 
+    -webkit-user-select: none;  
+    -moz-user-select: none;  
+    -ms-user-select: none;  
+    /* pointer-events: none;   */
+}
+.deaddove-media-warning{
+    filter: blur(5px);  
+    user-select: none !important; 
+    -webkit-user-select: none;  
+    -moz-user-select: none;  
+    -ms-user-select: none; 
+}
